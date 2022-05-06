@@ -7,6 +7,9 @@ module.exports = {
       backgroundImage: {
         'hero': "url('./assets/home.jpg')"
         
+      },
+      fontFamily:{
+        'main':['"Taviraj"', 'serif']
       }
     },
   },

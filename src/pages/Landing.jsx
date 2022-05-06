@@ -5,7 +5,7 @@ const Landing = () => {
   return ( 
     <>
     <Header/>
-    <br/>
+    
     <Services/>
     
     </>
