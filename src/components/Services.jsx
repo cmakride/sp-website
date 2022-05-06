@@ -30,10 +30,11 @@ const Services = () => {
 
       {data.map((service, idx) => (
 
-        <div className="sm:h-96 sm:w-11/12 max-w-3xl rounded-lg overflow-hidden shadow mx-6" key={idx}>
+        <div className="relative sm:h-96 sm:w-11/12 max-w-3xl rounded-lg overflow-hidden shadow-lg mx-6" key={idx}>
           <Link to={service.link}>
-            <img src={service.image} alt="spirit" className="w-full h-full object-cover object-center" />
+            <img src={service.image} alt="spirit" className="w-full h-full object-cover object-center mix-blend-overlay" />
           </Link>
+          <h2 className="absolute w-full py-2.5 bottom-5  inset-x-0 text-white font-main text-3xl font-light text-center tracking-wider leading-4">{service.title}</h2>
         </div>
       ))}
 
