@@ -10,8 +10,15 @@ module.exports = {
       },
       fontFamily:{
         'main':['"Taviraj"', 'serif']
+      },
+      colors: {
+        rosebrown: {
+          
+          100: 'rgb(187,152,148)'
+        
+        }
       }
-    },
+    }
   },
   plugins: [],
 }
