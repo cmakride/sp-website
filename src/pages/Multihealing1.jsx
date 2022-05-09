@@ -4,7 +4,7 @@ import mdPDF from '../assets/md.pdf'
 
 
 
-export default function AllPages() {
+export default function Multihealing1() {
   
   
 return (
