@@ -1,3 +1,4 @@
+import About from "./About"
 import { Link } from "react-router-dom"
 import multi from '../assets/multi.jpg'
 import soulplan from '../assets/soulplan.jpg'
@@ -22,7 +23,7 @@ const data = [
 
 const Services = () => {
   return (
-    <main className="flex flex-col flex-grow content-center items-center mb-5">
+    <main className="flex flex-col flex-grow items-center mb-5">
       <div className="flex content-center justify-center border-b w-1/2 p-4 font-main text-2xl font-medium tracking-wider text-sky-800">
         <p>SERVICES</p>
       </div>
@@ -37,10 +38,8 @@ const Services = () => {
           <h2 className="absolute w-full py-2.5 bottom-5  inset-x-0 text-white font-main text-3xl font-light text-center tracking-wider leading-4">{service.title}</h2>
         </div>
       ))}
-
-
-
     </div>
+    <About/>
 </main>
   )
 }
