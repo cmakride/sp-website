@@ -1,4 +1,5 @@
 import me from '../assets/about.jpg'
+import { MdDoubleArrow } from 'react-icons/md'
 
 const About = () => {
   return (

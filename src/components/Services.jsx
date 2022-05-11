@@ -23,7 +23,7 @@ const data = [
 
 const Services = () => {
   return (
-    <main className="flex flex-col flex-grow items-center mb-5">
+    <>
       <div className="flex content-center justify-center border-b w-1/2 p-4 font-main text-2xl font-medium tracking-wider text-sky-800">
         <p>SERVICES</p>
       </div>
@@ -39,8 +39,9 @@ const Services = () => {
         </div>
       ))}
     </div>
-    <About/>
-</main>
+    </>
+    
+
   )
 }
 
