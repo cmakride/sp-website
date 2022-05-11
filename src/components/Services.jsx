@@ -1,4 +1,3 @@
-import About from "./About"
 import { Link } from "react-router-dom"
 import multi from '../assets/multi.jpg'
 import soulplan from '../assets/soulplan.jpg'
