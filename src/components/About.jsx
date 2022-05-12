@@ -12,6 +12,11 @@ const About = () => {
         <p className="mt-6 font-main text-2xl font-light tracking-wider">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eum omnis voluptatem accusantium nemo perspiciatis delectus atque autem! Voluptatum tenetur beatae unde aperiam, repellat expedita consequatur! Officiis id consequatur atque doloremque!</p>
         <p className="mt-6 font-main text-2xl font-light tracking-wider"> Nobis minus voluptatibus pariatur dignissimos libero quaerat iure expedita at? Asperiores nemo possimus nesciunt dicta veniam aspernatur quam mollitia.</p>
         <p className="mt-6 font-main text-2xl font-light tracking-wider">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eum omnis voluptatem accusantium nemo perspiciatis delectus atque autem! Voluptatum tenetur beatae unde aperiam, repellat expedita consequatur! Officiis id consequatur atque doloremque!</p>
+        <div className='w-full mt-4 flex items-center h-10 justify-center gap-3'>
+        <span className="block h-px w-2/5 bg-sky-800"></span>
+        <MdDoubleArrow className='text-3xl text-sky-800 rotate-90'/>
+        <span className="block h-px w-2/5 bg-sky-800"></span>
+        </div>
         <p className="mt-6 font-main text-2xl font-light tracking-wider"> Nobis minus voluptatibus pariatur dignissimos libero quaerat iure expedita at? Asperiores nemo possimus nesciunt dicta veniam aspernatur quam mollitia.</p>
       </div>
 
