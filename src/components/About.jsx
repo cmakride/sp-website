@@ -3,7 +3,7 @@ import { MdDoubleArrow } from 'react-icons/md'
 
 const About = () => {
   return (
-    <div className='grid grid-cols-1 lg:grid-cols-2 justify-items-center overflow-hidden w-full gap-10 py-16 max-w-7xl'>
+    <div className='grid grid-cols-1 lg:grid-cols-2 place-items-center overflow-hidden w-full gap-10 py-16 max-w-7xl'>
 
       <img className="rounded-lg shadow-lg sm:w-10/12 max-w-xl" src={me} alt="" />
 
