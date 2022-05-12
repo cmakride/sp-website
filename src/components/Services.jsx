@@ -23,7 +23,7 @@ const data = [
 const Services = () => {
   return (
     <>
-      <div className="flex content-center justify-center border-b w-1/2 p-4 font-main text-2xl font-medium tracking-wider text-sky-800">
+      <div className="flex content-center justify-center border-b w-1/2 p-4 font-main text-2xl font-medium tracking-wider text-rosebrown-300">
         <p>SERVICES</p>
       </div>
     <div className="mt-4 grid grid-cols-1 gap-10 justify-items-center md:grid-cols-1 lg:grid-cols-2">
