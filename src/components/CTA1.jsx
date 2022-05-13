@@ -1,13 +1,13 @@
 const CTA1 = () => {
   return (
 
-    <div className="mt-10 w-full  bg-rosebrown-200">
-      <div className=" p-10  py-20  flex  flex-col  flex-wrap  justify-center  content-center">
-        <div className=" m-0  p-0  antialiased font-main text-4xl font-medium tracking-wider text-white text-center">Request Info or Book a Session</div>
-        <div className="m-0  p-0  antialiased font-main text-2xl font-medium tracking-wider text-white text-center">To easily request additional material with detailed information on each of these services, get in touch with me!</div>
-        <div className=" mt-3  flex  flex-row  flex-wrap justify-center  content-center">
+    <div className="mt-10 w-full flex content-center justify-center bg-rosebrown-200">
+      <div className="max-w-4xl w-7/10 p-10  py-20  flex  flex-col  flex-wrap  justify-center  content-center gap-3">
+        <div className="m-0  p-0  font-main text-xl lg:text-2xl font-medium tracking-wider text-rosebrown-500 text-center">Request Info or Book a Session</div>
+        <p className="m-0  p-0  font-main text-lg lg:text-2xl font-light tracking-wider text-rosebrown-500 text-center">To easily request additional material with detailed information on each of these services, get in touch with me!</p>
+        <div className=" mt-3  flex  flex-row  justify-center">
 
-          <button className="p-3  w-1/3  bg-rosebrown-300  rounded-lg text-lg text-white hover:bg-white hover:text-rosebrown-300" type="button">Book a Session</button>
+          <a href="https://www.whatsapp.com/" className="p-3  w-64  bg-rosebrown-300 text-lg text-white hover:bg-white hover:text-rosebrown-300 text-center"rel='noreferrer' target='_blank'>Book a Session</a>
         </div>
       </div>
     </div>
