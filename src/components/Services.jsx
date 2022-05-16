@@ -8,14 +8,14 @@ const Services = () => {
         <p>SERVICES</p>
       </div>
 
-      <div className="w-full mt-4 grid grid-cols-1 gap-10 justify-items-center lg:grid-cols-2">
+      <div className="max-w-screen-2xl w-full mt-4 grid grid-cols-1 gap-10 justify-items-center lg:grid-cols-2">
 
-        <Link className="bg-multi bg-cover bg-center h-96 w-11/12 max-w-3xl rounded-lg overflow-hidden shadow-lg mx-6" to="/multihealing">
-          <h2 className="w-full py-2.5 bottom-5  inset-x-0 text-white font-main text-3xl font-light text-center tracking-wider leading-4">Multi Dimensional Healing</h2>
+        <Link className="flex bg-multi bg-cover bg-center h-96 w-11/12 max-w-3xl rounded-lg overflow-hidden shadow-lg mx-6" to="/multihealing">
+          <h2 className="self-end w-full pb-6 inset-x-0 text-white font-main text-3xl font-light text-center tracking-wider leading-4">Multi Dimensional Healing</h2>
         </Link>
 
-        <Link className="bg-soulplan bg-cover bg-center h-96 w-11/12 max-w-3xl rounded-lg overflow-hidden shadow-lg mx-6" to="/soulplan">
-          <h2 className="w-full py-2.5 bottom-5  inset-x-0 text-white font-main text-3xl font-light text-center tracking-wider leading-4">Soul Plan</h2>
+        <Link className="flex bg-soulplan bg-cover bg-center h-96 w-11/12 max-w-3xl rounded-lg overflow-hidden shadow-lg mx-6" to="/soulplan">
+          <h2 className="self-end w-full pb-6 inset-x-0 text-white font-main text-3xl font-light text-center tracking-wider leading-4">Soul Plan</h2>
         </Link>
 
       </div>
