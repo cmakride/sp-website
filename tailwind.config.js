@@ -5,9 +5,11 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'home': "url('./assets/home.png')",
-        'ocean': "url('./assets/ocean.jpg')"
 
+        'home': "url('./assets/home.png')",
+        'ocean': "url('./assets/ocean.jpg')",
+        'multi': "url('./assets/multi.jpg')",
+        'soulplan': "url('./assets/soulplan.jpg')"
         
       },
       fontFamily:{
