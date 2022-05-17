@@ -11,14 +11,6 @@ module.exports = {
         'multi': "url('./assets/multi.jpg')",
         'soulplan': "url('./assets/soulplan.jpg')",
 
-        '01': "url('./assets/multiHealing/1.jpg')",
-        '02': "url('./assets/multiHealing/2.jpg')",
-        '03': "url('./assets/multiHealing/3.jpg')",
-        '04': "url('./assets/multiHealing/4.jpg')",
-        '05': "url('./assets/multiHealing/5.jpg')",
-        '06': "url('./assets/multiHealing/6.jpg')",
-        '07': "url('./assets/multiHealing/7.jpg')",
-        '08': "url('./assets/multiHealing/8.jpg')",
 
         
 
