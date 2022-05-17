@@ -1,7 +1,7 @@
 import './App.css';
 import { Routes, Route } from 'react-router-dom'
 import Landing from './pages/Landing'
-import Multihealing1 from './pages/Multihealing1';
+import Multihealing from './pages/Multihealing';
 import Soulplan from './pages/Soulplan';
 
 const App = () => {
@@ -13,7 +13,7 @@ const App = () => {
         <Landing/>  
         }/>
          <Route path="/multihealing" element={
-        <Multihealing1/>
+        <Multihealing/>
         }/>
          <Route path="/soulplan" element={
         <Soulplan/>
