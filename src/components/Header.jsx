@@ -3,7 +3,7 @@ const Header = () => {
     <header className="bg-home bg-cover bg-center w-full h-96">
       
       <div className='flex p-24'>
-      <h1 className='text-3xl text-white font-main font-medium lg:text-6xl'>Start Your New Journey</h1>
+      <h1 className='text-2xl text-white font-cover font-medium lg:text-6xl'>A PRÓXIMA ALMA A SENTIR ISSO TUDO PODE SER A SUA</h1>
       
       </div>
 

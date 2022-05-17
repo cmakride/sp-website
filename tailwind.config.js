@@ -18,7 +18,8 @@ module.exports = {
 
       },
       fontFamily:{
-        'main':['"Taviraj"', 'serif']
+        'main':['"Taviraj"', 'serif'],
+        'cover':['"Barlow Condensed"','sans-serif']
       },
       colors: {
         rosebrown: {
