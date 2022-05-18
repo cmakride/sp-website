@@ -6,7 +6,7 @@ const CTA3 = () => {
         <p className="m-0  p-0  font-main text-lg lg:text-2xl font-light tracking-wider text-rosebrown-500 text-center">Healing that encompasses body, mental and spiritual.</p>
         <div className=" mt-3  flex  flex-row  justify-center">
 
-          <a href="https://www.whatsapp.com/" className="p-3  w-64  bg-rosebrown-300 text-lg text-white hover:bg-white hover:text-rosebrown-300 text-center"rel='noreferrer' target='_blank'>Book a Session</a>
+          <a href="https://wa.me/5581993365820/" className="p-3  w-64  bg-rosebrown-300 text-lg text-white hover:bg-white hover:text-rosebrown-300 text-center"rel='noreferrer' target='_blank'>Book a Session</a>
         </div>
       </div>
     </div>
