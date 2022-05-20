@@ -1,4 +1,4 @@
-## This is a website built for a client who is in the field of spiritual healing.
+## This is a mobile responsive website built for a client in the field of spiritual healing.
 Link to the site [here](https://lustrous-pegasus-72972c.netlify.app/).
 
 ## Technologies used
