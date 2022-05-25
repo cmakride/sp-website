@@ -1,5 +1,5 @@
 ## This is a mobile responsive website built for a client in the field of spiritual healing.
-Link to the site [here](https://lustrous-pegasus-72972c.netlify.app/).
+Link to the site [here](https://www.brunamakrides.com/).
 
 ## Technologies used
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
